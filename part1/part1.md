@@ -161,21 +161,99 @@ true # intuitive!
 
 ![](ben-white-194220-slide.jpg)
 
-# Sad news: most languages work like JavaScript (or C++, C#, Java) - so be careful!
+# Sad news: most languages work like JavaScript (or C++, C#, Java) - so  be careful!
 
 ---
+
+![](fre-sonneveld-15016-slide.jpg)
+
+# False assumptions on sharing over networks
+
+---
+
+# 1-4 of Eight Fallacies of Distributed Computing[^3]
+
+* **The network is reliable**
+* **Latency is zero**
+* **Bandwidth is infinite**
+* The network is secure
+
+[^3]: <https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/>
+
+---
+
+# 5-8 of Eight Fallacies of Distributed Computing[^4]
+
+* Topology doesn't change
+* There is one administrator
+* Transport cost is zero
+* The network is homogeneous
+
+[^4]: <https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/>
+
+---
+
+# The network is *not* reliable
+
+* Somebody breaks the link (cut the line/fiber)
+* Error rate of wireless/radio communication is far higher than the wired communication
+* Data over the network *may* be altered without being discovered
+
+---
+
+# Latency is *not* zero
+
+* Speed of light: ~300,000km/s
+* = only **~30cm/ns**, **~300km/ms**
+* Even slower on the optic fiber (**~x0.7**)[^5]
+* Japan-US West Coast: **~0.1s** for round-trip
+* **Light is SLOW**
+
+[^5]: <https://physics.stackexchange.com/questions/80043/how-fast-does-light-travel-through-a-fibre-optic-cable>
+
+---
+
+# Bandwidth is *limited*
+
+* 1Gbps on Ethernet: ~100Mbytes/sec
+* **32Gbytes takes 32 seconds** on Ethernet
+* **32Gbytes takes ~54 minutes** on ~1Mbytes/sec link
+* **Replication of pictures and videos takes minutes or even hours**
+
+---
+
+# Implications
+
+* What you think you have successfully shared over the network **might be delivered corrupted** or **would not be delivered at all**
+* **Sharing might not be completed as you expect**, especially regarding network errors
+* **Data delivery delays**
+
+---
+
+![](redd-angelo-85070-slide.jpg)
+
+# [fit] Themes on part 2:
+# [fit] Distributed systems
+# [fit] Concurrency
+# [fit] Consistency .vs availability
 
 ---
 [.autoscale: true]
 
 Photo credits:
 
-* Title: Alissa Eady, from Unsplash.com
-* Sharing: Elaine Casap, from Unsplash.com
+* All photos are modified and edited by Kenji Rikitake
+* Photos are from Unsplash.com unless otherwise noted
+
+* Title: Alissa Eady
+* Sharing: Elaine Casap
 * More on share: [Kenji Rikitake from Instagram](https://www.instagram.com/p/BUG6XGDh7Z9/)
-* Showing off: Anthony Delanoix, from Unsplash.com
-* Sharing on programming: Matthew Henry, from Unsplash.com
-* Historical background on computing resources: Damjan Dobrilla, from Unsplash.com
+* Showing off: Anthony Delanoix
+* Sharing on programming: Matthew Henry
+* Historical background on computing resources: Damjan Dobrilla
+* Sad news: Ben White
+* False assumptions on sharing over networks: Fré Sonneveld
+* Themes on part 2: Redd Angelo
 
 <!-- coding: utf-8 -->
 <!-- End: -->
