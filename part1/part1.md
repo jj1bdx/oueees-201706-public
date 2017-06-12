@@ -111,16 +111,28 @@ Tell someone about (something), *especially something personal*
 # In JavaScript (node.js)
 
 ```javascript
-// var a = {first: 1, second: 2}
-// b = a // only share pointer
-{ first: 1, second: 2 }
-// a.second = 3
-3
-// b // element is shared
-{ first: 1, second: 3 }
-// b == { first: 1, second: 3 }
-false // WHY?
+var a = {first: 1, second: 2}
+b = a // only share pointer
+-> { first: 1, second: 2 }
+a.second = 3
+-> 3
+b // element is shared
+-> { first: 1, second: 3 }
+b == { first: 1, second: 3 }
+-> false // WHY?
 ```
+
+---
+
+![fit](js-example-1.png)
+
+---
+
+![fit](js-example-2.png)
+
+---
+
+![fit](js-example-3.png)
 
 ---
 
