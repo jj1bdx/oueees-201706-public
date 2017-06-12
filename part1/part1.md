@@ -18,6 +18,9 @@ Osaka University
 Toyonaka, Osaka, Japan
 @jj1bdx
 
+Copyright ©2017 Kenji Rikitake.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 # Lecture notes on GitHub
@@ -176,6 +179,16 @@ true # intuitive!
 * Need for explicit copying cause bugs
 * Mutable states are difficult to debug
 * Semantically sharing is a *shortcut* and breaks many logical assumptions
+
+---
+
+# Then why programming languages are still sharing based?
+
+**For resource conservation**
+
+* Reduce memory allocation attempts
+* Reduce allocated memory size
+* Reduce time for copying and communication 
 
 ---
 
