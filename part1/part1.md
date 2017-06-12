@@ -249,8 +249,8 @@ true # intuitive!
 # Bandwidth is *limited*
 
 * 1Gbps on Ethernet: ~100Mbytes/sec
-* **32Gbytes takes 32 seconds** on Ethernet
-* **32Gbytes takes ~54 minutes** on ~1Mbytes/sec link
+* **32Gbytes takes ~5.33 minutes** on Ethernet
+* **32Gbytes takes ~8.89 hours** on ~1Mbytes/sec link
 * **Replication of pictures and videos takes minutes or even hours**
 
 ---
