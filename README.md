@@ -40,3 +40,8 @@
 * Illusion of *distributed systems*: how large systems fail
 * Social issues: fallacies of teamwork 
 * Political issues: centralized power .vs. individual freedom
+
+## License
+
+Copyright ©2017 Kenji Rikitake.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
