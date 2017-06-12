@@ -2,7 +2,7 @@
 
 * 大阪大学 基礎工学部 電気工学特別講義 2017年度
 * Kenji Rikitake / 力武 健次
-* Latest revision: 7-MAR-2017
+* Latest revision: 12-JUN-2017
 
 ## Talk style
 
