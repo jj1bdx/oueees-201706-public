@@ -222,6 +222,12 @@ true # intuitive!
 
 ---
 
+# Bandwidth and latency
+
+![inline full](bandwidth-product.png)
+
+---
+
 # Implications
 
 * What you think you have successfully shared over the network **might be delivered corrupted** or **would not be delivered at all**
