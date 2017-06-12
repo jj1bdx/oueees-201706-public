@@ -157,6 +157,14 @@ true # intuitive!
 
 ---
 
+![fit](elixir-example-1.png)
+
+---
+
+![fit](elixir-example-2.png)
+
+---
+
 # Thought: sharing is *not necessarily intuitive*
 
 ---
