@@ -111,6 +111,10 @@ No hierarchical structure
 Multiple redundant paths are available between two nodes
 
 ---
+
+![original fit](netsplit.jpg)
+
+---
 [.autoscale: true]
 
 Photo credits:
@@ -123,6 +127,7 @@ Photo credits:
 * Cloud Computing: <https://commons.wikimedia.org/wiki/File:Cloud_applications_SVG.svg>, licensed under [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 # Web services are clusters of computers: Kenji Rikitake, at Kyoto University ACCMS, April 2017
 * Networks: Irina Blok
+* Netsplit: <https://commons.wikimedia.org/wiki/File:Netsplit_split.svg>, in public domain
 
 <!-- coding: utf-8 -->
 <!-- End: -->
