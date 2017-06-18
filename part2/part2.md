@@ -46,6 +46,15 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 # Is cloud really a uniform and single entity?
 
+---
+
+![right fit](kyoto-u-hpc-20170425.jpg)
+
+# Web services are clusters of computers and networks
+
+**Thousands or millions of servers connected together**
+
+**A physical server is separated into multiple virtual machines**
 
 ---
 
@@ -112,6 +121,7 @@ Photo credits:
 * Title: NASA
 * Modern Computing is Cloud Computing: Rayi Christian Wicaksono
 * Cloud Computing: <https://commons.wikimedia.org/wiki/File:Cloud_applications_SVG.svg>, licensed under [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+# Web services are clusters of computers: Kenji Rikitake, at Kyoto University ACCMS, April 2017
 * Networks: Irina Blok
 
 <!-- coding: utf-8 -->
