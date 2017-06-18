@@ -30,6 +30,25 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
+![original](rayi-christian-wicaksono-366-slide.jpg)
+
+# [fit] Modern computing
+## is
+# [fit]cloud computing
+
+---
+
+![original fit](Cloud_applications_SVG.jpg)
+
+---
+
+![fit](Cloud_applications_SVG.jpg)
+
+# Is cloud really a uniform and single entity?
+
+
+---
+
 ![original](irina-blok-15361-slide.jpg)
 
 # [fit] Networks
@@ -91,6 +110,8 @@ Photo credits:
 * Photos are from Unsplash.com unless otherwise noted
 
 * Title: NASA
+* Modern Computing is Cloud Computing: Rayi Christian Wicaksono
+* Cloud Computing: <https://commons.wikimedia.org/wiki/File:Cloud_applications_SVG.svg>, licensed under [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 * Networks: Irina Blok
 
 <!-- coding: utf-8 -->
