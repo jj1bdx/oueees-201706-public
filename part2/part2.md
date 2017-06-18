@@ -30,13 +30,17 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
+![original](irina-blok-15361-slide.jpg)
+
+# [fit] Networks
+
 ---
 
 ![right fit](network-nodes.png)
 
-# Example of multi-node networks
+# Example of networks connecting multiple nodes
 
-Source: Baran, Paul. On Distributed Communications: I. Introduction to Distributed Communications Networks. Santa Monica, CA: RAND Corporation, 1964. <https://www.rand.org/pubs/research_memoranda/RM3420.html>. Figure 1.
+Reference: Baran, Paul. On Distributed Communications: I. Introduction to Distributed Communications Networks. Santa Monica, CA: RAND Corporation, 1964. <https://www.rand.org/pubs/research_memoranda/RM3420.html>. Figure 1 in Chapter 1.
 
 All figures drawn by Kenji Rikitake
 
@@ -87,6 +91,7 @@ Photo credits:
 * Photos are from Unsplash.com unless otherwise noted
 
 * Title: NASA
+* Networks: Irina Blok
 
 <!-- coding: utf-8 -->
 <!-- End: -->
