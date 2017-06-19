@@ -2,7 +2,7 @@
 
 * 大阪大学 基礎工学部 電気工学特別講義 2017年度
 * Kenji Rikitake / 力武 健次
-* Latest revision: 12-JUN-2017
+* Latest revision: 20-JUN-2017
 
 ## Talk style
 
@@ -21,6 +21,8 @@
 
 （壊れたネットワーク(1/3): 共有の悲劇）
 
+(See `part1/part1.pdf` for the slides)
+
 * False assumptions on sharing information
 * Sharing as a shortcut: instability of sharing-based systems
 * How sharing *fails* on: operating systems, networks, distributed systems
@@ -28,6 +30,8 @@
 ## 20-JUN-2017: Distributed systems fiasco
 
 （壊れたネットワーク(2/3): 分散システムの大失敗）
+
+(See `part2/part2.pdf` for the slides)
 
 * How network partition happens
 * Concurrency, distribution, and fault-tolerance
