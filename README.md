@@ -45,6 +45,12 @@
 * Social issues: fallacies of teamwork 
 * Political issues: centralized power .vs. individual freedom
 
+## Tools for making and playing back the slides
+
+* macOS 10.12.5
+* [Deckset for Mac](https://www.decksetapp.com/) 1.8.1
+* [OmniGraffle Pro](https://www.omnigroup.com/omnigraffle) 7.3.1
+
 ## License
 
 Copyright ©2017 Kenji Rikitake.
