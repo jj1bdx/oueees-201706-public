@@ -138,6 +138,42 @@ Many hops are required to reach between two nodes
 
 ---
 
+# [fit] Consistency
+# .vs.
+# [fit] Availability
+
+---
+
+# Data store requirements[^1]
+
+**Consistency: all clients get responses to requests that make sense**
+
+**Availability: all operations eventually return successfully**
+
+**Partition Tolerance: system works even under network split**
+
+[^1]: [CAP Confusion: Problems with 'partition tolerance', Cloudera Engineering Blog](http://blog.cloudera.com/blog/2010/04/cap-confusion-problems-with-partition-tolerance/)
+
+---
+
+# Partition happens
+
+**Consistent under partition: resynchronize after partition ends** (unavailable before synchronization)
+
+**Available under partition: data between partitioned subsystems will be inconsistent** (consistency to be recovered when partition ends)
+
+... **mutually conflicting**
+
+---
+
+# If consistency and availability are both required, then...
+
+**Consistent and available system should not include networks within**
+
+(In large-scale systems this kind of assumption is practically not feasible)
+
+---
+
 ![original fit](daria-shevtsova-57340-slide.jpg)
 
 ---
