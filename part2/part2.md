@@ -30,6 +30,16 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
+# Some thoughts on Part 1 report answers
+
+* **You can program or write code**
+* Sharing requires synchronization
+* Social sharing is another issue
+* *Reusing* software is not sharing
+* **Decoupling is hard**
+
+---
+
 ![original](rayi-christian-wicaksono-366-slide.jpg)
 
 # [fit] Modern computing
@@ -205,8 +215,23 @@ Many hops are required to reach between two nodes
 
 ---
 
+# Implications
 
+* **Distributed systems are mutually dependent with each other**
+* **A node failure may cause a total system failure at once if badly designed**
+* **Concurrency is hard**
+* **Satisfying consistency and availability is even harder**
 
+---
+
+![](redd-angelo-85070-slide.jpg)
+
+# [fit] Themes on part 3:
+# [fit] How large systems fail
+# [fit] Fallacies of teamwork
+# [fit] Centralized power
+## .vs.
+# [fit] individual freedom
 
 ---
 [.autoscale: true]
@@ -225,6 +250,7 @@ Photo and figure credits:
 * Networks Split: Pietro De Grandi
 * Netsplit: <https://commons.wikimedia.org/wiki/File:Netsplit_split.svg>, in public domain
 * Concurrency: Daria Shevtsova
+* Themes on part 3: Redd Angelo
 
 <!-- coding: utf-8 -->
 <!-- End: -->
