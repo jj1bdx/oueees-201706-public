@@ -54,6 +54,21 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 # [fit] how large systems fail
 
 ---
+
+![](exchange-of-ideas-slide.jpg)
+
+# [fit] Fallacies of teamwork
+# [fit] ... and other social issues
+
+---
+
+![original](delacroix-liberte-slide.jpg)
+
+# [fit] Centralized power
+## .vs.
+# [fit] individual freedom
+
+---
 [.autoscale: true]
 
 Photo and figure credits:
@@ -62,8 +77,10 @@ Photo and figure credits:
 * Photos are from Unsplash.com unless otherwise noted
 
 * Title: Blair Fraser
-* Negligence of people: An engraving by D. H. Friston of Gilbert and Sullivan's Trial by Jury, shortly after its première, via Wikimedia Commons, in public domain
-* Illusion of distributed systems: LZ 129 Hindenburg burning at US NAS Lakehurst, by Gus Pasquarella (US Navy), via Wikimedia Commons, in public domain
+* Negligence of people: [An engraving by D. H. Friston of Gilbert and Sullivan's Trial by Jury, shortly after its première, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Trial_by_Jury_-_Chaos_in_the_Courtroom.png)
+* Illusion of distributed systems: [LZ 129 Hindenburg burning at US NAS Lakehurst, by Gus Pasquarella (US Navy), via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Hindenburg_burning,_1937.jpg)
+* Fallacies of teamwork: [geralt from pixabay.com](https://pixabay.com/en/exchange-of-ideas-debate-discussion-222788/)
+* Centralized power .vs. individual freedom: [Eugène Delacroix, La liberté guidant le peuple, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg)
 
 <!-- coding: utf-8 -->
 <!-- End: -->
