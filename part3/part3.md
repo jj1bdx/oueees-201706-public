@@ -101,6 +101,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
+![](hieu-vu-minh-91994-slide.jpg)
+
 # Why failed?
 
 ## [fit] No corporate governance
@@ -135,11 +137,11 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Photo and figure credits:
 
 * All photos are modified and edited by Kenji Rikitake
-* Photos are from Unsplash.com unless otherwise noted
 
-* Title: Blair Fraser
+* Title: Blair Fraser, from Unsplash.com
 * Negligence of people: [An engraving by D. H. Friston of Gilbert and Sullivan's Trial by Jury, shortly after its première, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Trial_by_Jury_-_Chaos_in_the_Courtroom.png)
 * Illusion of distributed systems: [LZ 129 Hindenburg burning at US NAS Lakehurst, by Gus Pasquarella (US Navy), via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Hindenburg_burning,_1937.jpg)
+* Why failed?: Hieu Vu Minh, from Unsplash.com
 * Fallacies of teamwork: [geralt from pixabay.com](https://pixabay.com/en/exchange-of-ideas-debate-discussion-222788/)
 * Centralized power .vs. individual freedom: [Eugène Delacroix, La liberté guidant le peuple, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg)
 
