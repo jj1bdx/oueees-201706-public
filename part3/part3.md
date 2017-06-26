@@ -125,6 +125,89 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
+# [fit] Groupthink
+# =
+# [fit] 「空気読め」
+---
+
+# Groupthink (n.)
+
+The practice of thinking or making decisions as a **group** in a way that **discourages creativity or individual responsibility** [^8]
+
+[...]occurs when a group makes **faulty decisions because group pressures lead to a deterioration of "mental efficiency, reality testing, and moral judgment"** (Irving Janis, 1972)[^9]
+
+[^8]: New Oxford American Dictionary, macOS 10.12.5, emphasis by Kenji Rikitake
+
+[^9]: [The Psychologists for Social Responsibility, "What is Groupthink?"](http://www.psysr.org/about/pubs_resources/groupthink%20overview.htm)
+
+---
+
+> When all think alike, no one thinks very much.
+-- Walter Lippman [^10]
+
+[^10]: [Walter Lippman, "The Stakes of Diplomacy" (1915)](https://en.wikiquote.org/wiki/Walter_Lippmann)
+
+---
+
+# Groupthink symptoms (1/2) [^9]
+
+* Illusion of invulnerability
+* Collective rationalization
+* Belief in inherent morality
+* Stereotyped views of out-groups
+
+---
+
+# Groupthink symptoms (2/2) [^9]
+
+* Direct pressure on dissenters
+* Self-censorship
+* Illusion of unanimity
+* Self-appointed *mindguards*
+
+---
+
+# Groupthink in news media (1/2) [^9]
+
+* Incomplete survey of alternatives
+* Incomplete survey of objectives
+* Failure to examine risks of preferred choice
+* Failure to reappraise initially rejected alternatives
+
+---
+
+# Groupthink in news media (2/2) [^9]
+
+* Poor information search
+* Selective bias in processing information at hand
+* Failure to work out contingency plans
+* Low probability of successful outcome 
+
+---
+
+# Remedies of groupthink [^9]
+
+* Assign critical evaluator role
+* Stop stating preferences/expectations
+* Check deliberation by external associates
+* Invite outside experts to challenge
+* Assign devil's advocate
+* Survey rivals' scenarios regularly
+
+---
+
+# Filter Bubble: groupthink in internet [^11] [^12]
+
+* **Filtering out the people and opinions against one's belief**
+* **Less exposure to conflicting viewpoints**
+* **Isolated in personal ecosystem enforcing ideological frames by the social network services and search engines**
+
+[^11]: Pariser, Eli. The Filter Bubble: What the Internet Is Hiding from You, Penguin Press (New York, May 2011) ISBN 978-1-59420-300-8
+
+[^12]: [Filter Bubble (Wikipedia)](https://en.wikipedia.org/wiki/Filter_bubble)
+
+---
+
 ![original](delacroix-liberte-slide.jpg)
 
 # [fit] Centralized power
