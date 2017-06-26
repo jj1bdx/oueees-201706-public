@@ -208,6 +208,13 @@ The practice of thinking or making decisions as a **group** in a way that **disc
 
 ---
 
+![original](ky-mug-slide.jpg)
+
+# [fit] No groupthink
+# [fit] 空気は読むな
+
+---
+
 ![original](delacroix-liberte-slide.jpg)
 
 # [fit] Centralized power
@@ -226,7 +233,10 @@ Photo and figure credits:
 * Illusion of distributed systems: [LZ 129 Hindenburg burning at US NAS Lakehurst, by Gus Pasquarella (US Navy), via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Hindenburg_burning,_1937.jpg)
 * Why failed?: Hieu Vu Minh, from Unsplash.com
 * Fallacies of teamwork: [geralt from pixabay.com](https://pixabay.com/en/exchange-of-ideas-debate-discussion-222788/)
+* No groupthink: [Douglas Paul Perkins, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KY_Mug.jpg), licensed under [the Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 * Centralized power .vs. individual freedom: [Eugène Delacroix, La liberté guidant le peuple, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg)
+
+
 
 <!-- coding: utf-8 -->
 <!-- End: -->
