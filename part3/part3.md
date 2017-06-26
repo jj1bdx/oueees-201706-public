@@ -65,6 +65,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [^1]: [失敗知識データベース: みずほファイナンシャルグループ大規模システム障害](http://www.sozogaku.com/fkd/cf/CA0000623.html)
 
 ---
+[.hide-footer]
+![original fit](mizuhobank-2002.png)
+
+---
 
 # Case study: Mizuho Bank on March 2011 (2/4) [^2]
 
@@ -281,11 +285,9 @@ The practice of thinking or making decisions as a **group** in a way that **disc
 
 ---
 
-# [fit] If I were at age 22, what I will do
+# [fit] If I were at age 22, what I would do
 # [fit] after getting a Bachelor's degree?
 ## ...
-# [fit] Do what you want to do
-## and
 # [fit] Get out of Japan ASAP
 # [fit] Explore the computer skills
 # [fit] Do something unpopular
