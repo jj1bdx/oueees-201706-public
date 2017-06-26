@@ -222,6 +222,84 @@ The practice of thinking or making decisions as a **group** in a way that **disc
 # [fit] individual freedom
 
 ---
+
+![right fit](network-centralized.png)
+
+# Centralized society
+
+* **Efficient**
+* **Power concentrated at the core**
+* **Each node depends on the core**
+* **System fails if the core fails**
+* **Vulnerable to the attacks of the core**
+
+---
+
+![right fit](network-distributed.png)
+
+# Distributed society
+
+* **Inefficient = many hops are required to distribute information**
+* **Power given to each node**
+* **Each node should survive on its own**
+* **Resilient to the attacks of each node**
+* **Diversity**
+
+---
+
+# [fit] Distributed systems:
+# [fit] Resilience
+# [fit] Diversity
+# [fit] Autonomy
+
+---
+
+# [fit] But the reality is:
+# [fit] Efficiency
+# [fit] Uniformity
+# [fit] Autocracy
+
+---
+
+![original](matthew-henry-87142-slide.jpg)
+
+# Question
+## Are we trading our liberty and freedom for more efficient and convenient society?
+
+---
+
+# Appendix: on choosing your career and professionality
+
+---
+
+# When I chose my career and professionality?
+
+* Age 9: discovered computers and English
+* Age 10 discovered ham radio and electronics
+* Age 14: earned money by writing software
+* **Age 23: finally decided to make my living on my computer software professionality, with my English proficiency**
+
+---
+
+# [fit] If I were at age 22, what I will do
+# [fit] after getting a Bachelor's degree?
+## ...
+# [fit] Do what you want to do
+## and
+# [fit] Get out of Japan ASAP
+# [fit] Explore the computer skills
+# [fit] Do something unpopular
+
+---
+
+# [fit] What are the most important things
+# [fit] to pursue engineering/scientist career?
+## ...
+# [fit] Physical strength
+# [fit] Mental strength
+# [fit] Curiosity
+
+---
 [.autoscale: true]
 
 Photo and figure credits:
@@ -235,8 +313,7 @@ Photo and figure credits:
 * Fallacies of teamwork: [geralt from pixabay.com](https://pixabay.com/en/exchange-of-ideas-debate-discussion-222788/)
 * No groupthink: [Douglas Paul Perkins, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KY_Mug.jpg), licensed under [the Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 * Centralized power .vs. individual freedom: [Eugène Delacroix, La liberté guidant le peuple, via Wikimedia Commons, in public domain](https://commons.wikimedia.org/wiki/File:Eugène_Delacroix_-_La_liberté_guidant_le_peuple.jpg)
-
-
+* Trading our liberty for more efficient society: Matthew Henry, from unsplash.com
 
 <!-- coding: utf-8 -->
 <!-- End: -->
