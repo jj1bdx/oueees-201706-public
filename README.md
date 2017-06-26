@@ -41,6 +41,8 @@
 
 （壊れたネットワーク(3/3): 人々の怠慢）
 
+(See `part3/part3.pdf` for the slides)
+
 * Illusion of *distributed systems*: how large systems fail
 * Social issues: fallacies of teamwork 
 * Political issues: centralized power .vs. individual freedom
